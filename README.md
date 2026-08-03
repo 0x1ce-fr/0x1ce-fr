@@ -14,4 +14,4 @@ Cybersecurity | Data Science | AI
 📫 Reach Me
 
 * LinkedIn: https://www.linkedin.com/in/razafinjordan/
-* Mail ; jordan.razafindrabeza@universite-paris-saclay.fr
+* Mail: jordan.razafindrabeza@universite-paris-saclay.fr
